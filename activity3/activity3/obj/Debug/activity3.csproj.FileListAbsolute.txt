@@ -1,0 +1,5 @@
+c:\users\naruto\documents\visual studio 2015\Projects\activity3\activity3\bin\Debug\activity3.exe.config
+c:\users\naruto\documents\visual studio 2015\Projects\activity3\activity3\bin\Debug\activity3.exe
+c:\users\naruto\documents\visual studio 2015\Projects\activity3\activity3\bin\Debug\activity3.pdb
+c:\users\naruto\documents\visual studio 2015\Projects\activity3\activity3\obj\Debug\activity3.exe
+c:\users\naruto\documents\visual studio 2015\Projects\activity3\activity3\obj\Debug\activity3.pdb
